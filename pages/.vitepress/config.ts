@@ -42,6 +42,7 @@ function convertFiles(files: FileInfo[]): DefaultTheme.SidebarItem[] {
 export default defineConfig({
   title: "LitBot",
   description: "「利」をあなたへ。",
+  base: "/litbot-docs/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
