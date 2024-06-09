@@ -55,7 +55,7 @@ export default defineConfig({
         text: "はじめに",
         items: [
           { text: "Get Started", link: "/get-started" },
-          { text: "Runtime API Examples", link: "/api-examples" },
+          { text: "LitBotについて", link: "/about" },
         ],
       },
       {

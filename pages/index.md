@@ -11,15 +11,15 @@ hero:
       text: Get Started
       link: /get-started
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: LitBotについて
+      link: /about
 
 features:
   - title: 完全無料
     icon: 🆓
     details: 追加料金は一切なく、無料でご利用いただけます。
   - title: 学生に嬉しい機能
-    icon: 🧑‍🏫
+    icon: 🧑‍🎓
     details: 時間割など、便利な機能がたくさん搭載。
   - title: 安心安全のオープンソース
     icon: 💖
